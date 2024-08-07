@@ -1,2 +1,2 @@
-#Portfolio website for @Abhishek Panigrahi
+# Portfolio website for Abhishek Panigrahi
 
